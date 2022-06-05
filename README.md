@@ -41,4 +41,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhichadha2507&" alt="vidhichadha2507" /></p>
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
