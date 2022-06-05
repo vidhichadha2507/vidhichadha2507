@@ -39,3 +39,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhichadha2507&show_icons=true&locale=en" alt="vidhichadha2507" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhichadha2507&" alt="vidhichadha2507" /></p>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
