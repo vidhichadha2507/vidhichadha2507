@@ -43,7 +43,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Total Time: 9 mins
+
+C      5 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀   61.28 %
+Java   3 mins          ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   38.72 %
 ```
 
 <!--END_SECTION:waka-->
