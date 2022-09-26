@@ -43,11 +43,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Total Time: 1 hr 3 mins
-
-JavaScript   52 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀⣀⣀⣀   83.21 %
-SCSS         8 mins          ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   13.22 %
-HTML         2 mins          ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.57 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
