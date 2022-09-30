@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vidhichadha2507@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zT9bsR0iTKhSEZTJLrThfmZ838HpALum/view?usp=sharing](https://drive.google.com/file/d/1zT9bsR0iTKhSEZTJLrThfmZ838HpALum/view?usp=sharing)
+
 
 - ⚡ Fun fact **I can crack bad jokes**
 
